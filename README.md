@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Lâm Nguyễn</h1>
 
-<!-- #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-  
 #### Platform
 <!-- https://simpleicons.org/ -->
 [![](https://img.shields.io/badge/Windows-11-292e33?style=flat-square&logo=windows&logoColor=ffffff)](#)
